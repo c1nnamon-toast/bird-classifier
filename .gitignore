@@ -1,3 +1,5 @@
 __venv__bird/
 my_model.h5
 data/
+__pycache__/
+data_full.zip
